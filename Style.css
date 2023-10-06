@@ -1,0 +1,31 @@
+#PG{
+    text-align: center;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    font-size: 15mm;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-size: cover;
+    background-image:url(Wallpaper2.jpg)
+}
+ul{
+    list-style: none;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15mm;
+    margin:auto;
+}
+#javaimage{
+    width: 350px;
+}
+#scriptimage{
+    width: 200px;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+h1{
+    font-size:150%
+}
