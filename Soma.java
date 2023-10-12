@@ -1,4 +1,4 @@
-public class soma {
+public class Soma {
 
 	public static void main(String[] args) {
 		int[] num = {10, 70, 95, 25, 15};
