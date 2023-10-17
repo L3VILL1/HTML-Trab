@@ -24,7 +24,7 @@ rl.question("Digite o valor de A: ", (A) => {
         }
       }
     } else {
-      mdc = A; // A e B são iguais, então o MDC é A ou B.
+      mdc = A;
     }
 
     console.log("MDC entre " + A + " e " + B + " é " + mdc);

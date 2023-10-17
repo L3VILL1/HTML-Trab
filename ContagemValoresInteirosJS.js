@@ -8,8 +8,8 @@ function contarNumerosInteiros(N) {
   return contador;
 }
 
-// Exemplo de uso:
-const N = 10; // Altere N para o valor desejado
+
+const N = 10;
 const quantidadeInteiros = contarNumerosInteiros(N);
 console.log(
   `Quantidade de números inteiros no intervalo de 1 a ${N}: ${quantidadeInteiros}`
